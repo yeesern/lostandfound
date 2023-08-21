@@ -24,10 +24,6 @@ Users can sign up for an account, allowing them to report lost and found items.
 
 The reported items are then displayed on the dashboard of the website, each item containing the following information:
 
-## Technologies Used
-
-The web application is built based on the MERN stack (MongoDB, Express.js, React, Node.js) frameworks and tools to develop the capstone project app.
-
 ## Features
 
 1. Reporter's Name: The name of the person who reported the lost or found item.
@@ -37,6 +33,9 @@ The web application is built based on the MERN stack (MongoDB, Express.js, React
 5. Uploaded Picture: An uploaded image of the lost or found item.
 
 Signed-in users have the capability to create new reports, edit existing ones, and delete reports as needed.
+
+## Technologies Used
+The web application is built based on the MERN stack (MongoDB, Express.js, React, Node.js) frameworks and tools to develop the capstone project app.
 
 ## Testing with Postman
 You can use Postman, a popular API testing tool, to interact with the "Company Lost & Found Report Site" app's API endpoints. Here's a quick guide to get you started:
