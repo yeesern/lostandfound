@@ -77,7 +77,7 @@ Your app is ready to be deployed!
 ## Deployment
 The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Heroku. 
 
-*Important* 
+## Important:
 The backend database are currently deployed via Heroku and it is no longer free to use.
 It will charge the user with daily accumulative rates as long as it remain activated.
 In order to save cost, it is currently deactivated or turned off. 
