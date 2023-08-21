@@ -54,30 +54,6 @@ Enter URL:
 
 Enter the URL of the API endpoint you want to test. For example, if you're testing user registration, it might be http://localhost:3000/.
 
-Add Headers (if needed):
-
-If your API requires headers (such as authentication tokens or content type), add them in the Headers section.
-
-Set Request Body (if needed):
-
-If you're making a POST or PUT request that requires a request body (usually in JSON format), switch to the Body tab, select the "raw" option, and enter the JSON data.
-
-Send Request:
-
-Click the "Send" button to send the request to the server.
-
-View Response:
-
-Postman will display the server's response, including status code, headers, and response body.
-
-Test Different Endpoints:
-
-Repeat the process for various API endpoints to test different functionalities of the "Company Lost & Found Report Site" app.
-
-Analyze Results:
-
-Analyze the responses to ensure that your API endpoints are working as expected.
-
 ## Instructions
 
 In the project directory, you can run:
@@ -99,6 +75,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ## Deployment
-The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Heroku. You can access the live application by visiting https://company-lost-n-found.netlify.app/.
+The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Heroku. 
 
-Feel free to explore and use the app's features. If you encounter any issues or have feedback, please let us know.
+*Important* 
+The backend database are currently deployed via Heroku and it is no longer free to use.
+It will charge the user with daily accumulative rates as long as it remain activated.
+In order to save cost, it is currently deactivated or turned off. 
+May knowledgehut please notify the student when will be the time and period for them to access, so that the student will resume the activation to access and view the entire web application.
+
+if everything is in place, you can access the live application by visiting https://company-lost-n-found.netlify.app/.
+
+Feel free to explore and use the app's features. If you encounter any issues or have feedback, please let the student know.
