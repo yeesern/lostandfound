@@ -77,6 +77,6 @@ Your app is ready to be deployed!
 ## Deployment
 The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Render. 
 
-May you access the live application by visiting https://company-lost-n-found.netlify.app/.
+Please take note that the loading for the backend post is quite slow while you accessing the live application when visiting https://company-lost-n-found.netlify.app/.
 
 Feel free to explore and use the app's features. If you encounter any issues or have feedback, please let the student know.
