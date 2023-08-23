@@ -75,14 +75,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ## Deployment
-The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Heroku. 
+The "Company Lost & Found Report Site" app has been successfully deployed using Netlify and Render. 
 
-## Important:
-The backend database are currently deployed via Heroku and it is no longer free to use.
-It will charge the user with daily accumulative rates as long as it remain activated.
-In order to save cost, it is currently deactivated or turned off. 
-May knowledgehut please notify the student when will be the time and period for them to access, so that the student will resume the activation to access and view the entire web application.
-
-if everything is in place, you can access the live application by visiting https://company-lost-n-found.netlify.app/.
+May you access the live application by visiting https://company-lost-n-found.netlify.app/.
 
 Feel free to explore and use the app's features. If you encounter any issues or have feedback, please let the student know.
